@@ -25,6 +25,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _ALPHAPREMULTIPLY_ON
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 2
@@ -73,6 +74,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MultiLayered_059d67a08b9244c690c2b076a40ba0ed_MainTex_2824530641_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 2baf674c0a738044287bb66311bc5552, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -102,6 +107,7 @@ Material:
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 2
+    - _BlendModePreserveSpecular: 1
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -139,7 +145,7 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
-    - _SrcBlend: 5
+    - _SrcBlend: 1
     - _Surface: 1
     - _WorkflowMode: 1
     - _ZTest: 4
@@ -151,8 +157,17 @@ Material:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0.9159851, g: 0, b: 16, a: 1}
+    - _FresnelColor: {r: 0.5762844, g: 0.3941568, b: 0.4578058, a: 0}
+    - _GradientColor0: {r: 1.210527, g: 0, b: 4, a: 0}
+    - _GradientColor1: {r: 3.64013, g: 0.5181785, b: 9.986712, a: 0}
+    - _InnerOrbColor: {r: 0.9716981, g: 0.2429245, b: 0.4195936, a: 0}
+    - _InnerOrbSize: {r: 0.12, g: 0.24, b: 0, a: 0}
+    - _MultilayeredPanningSize: {r: 0.5, g: 2, b: 1, a: 0}
     - _PanningVelocity: {r: 0, g: 0, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _SpeedLayer1: {r: 0.25, g: -0.25, b: 0, a: 0}
+    - _SpeedLayer2: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _SpeedLayer3: {r: -0.1, g: 0.15, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
