@@ -58,6 +58,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 2baf674c0a738044287bb66311bc5552, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _UVDistortion_82940e3346684f8786cbe98d220a66da_DistortionTex_954758802_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 60339f82da9badc4b92c38d9e927d952, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVDistortion_82940e3346684f8786cbe98d220a66da_MainTexture_1276494966_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 60339f82da9badc4b92c38d9e927d952, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -92,15 +100,15 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 0.34766752, g: 0.28502136, b: 0.5754717, a: 0}
-    - _FresnelColor: {r: 0, g: 0.13646817, b: 1, a: 0}
+    - _FresnelColor: {r: 0.61081004, g: 0.17993142, b: 0.6935538, a: 0}
     - _GradientColor0: {r: 0.19926907, g: 0.16073336, b: 0.7924528, a: 0}
-    - _GradientColor1: {r: 1.7512783, g: 0, b: 5.2830186, a: 0}
-    - _InnerOrbColor: {r: 8, g: 2.8301888, b: 7.43008, a: 0}
-    - _InnerOrbSize: {r: 0.14, g: 0.5, b: 0, a: 0}
-    - _MultilayeredPanningSize: {r: 2, g: 5, b: 1, a: 0}
+    - _GradientColor1: {r: 1.1408596, g: 0, b: 3.4415905, a: 0}
+    - _InnerOrbColor: {r: 0.11526894, g: 0.040779106, b: 0.10705718, a: 0}
+    - _InnerOrbSize: {r: 0.24, g: 0.14, b: 0, a: 0}
+    - _MultilayeredPanningSize: {r: 3.16, g: 5, b: 1, a: 0}
     - _PanningVelocity: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - _SpeedLayer1: {r: 0.25, g: -0.25, b: 0, a: 0}
-    - _SpeedLayer2: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - _SpeedLayer3: {r: -0.1, g: 0.15, b: 0, a: 0}
+    - _SpeedLayer1: {r: 0.61, g: -0.25, b: 0, a: 0}
+    - _SpeedLayer2: {r: 1.38, g: 0.28, b: 0, a: 0}
+    - _SpeedLayer3: {r: 1.28, g: 0.15, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
