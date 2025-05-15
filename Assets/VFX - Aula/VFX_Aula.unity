@@ -20078,7 +20078,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &719236483
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -24911,7 +24911,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &754704769
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -29721,7 +29721,7 @@ Transform:
   m_GameObject: {fileID: 754704768}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.2, y: 1.21, z: 2.59}
+  m_LocalPosition: {x: -5.2, y: 1.21, z: -5.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -39528,7 +39528,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &864526834
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -44549,7 +44549,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &1269390880
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -49418,7 +49418,7 @@ Transform:
   m_GameObject: {fileID: 1269390879}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 7.96, y: 2.13, z: 5.38}
+  m_LocalPosition: {x: 7.96, y: 2.13, z: 7.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -49723,7 +49723,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!120 &1691492556
 LineRenderer:
   serializedVersion: 2
@@ -49910,7 +49910,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6def21e0860ff5d40b86446d0174a218, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -54964,7 +54964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4539693824308930491, guid: 0e44b460d3ad2f44db87d82d2665b11e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8010586503653190500, guid: 0e44b460d3ad2f44db87d82d2665b11e, type: 3}
       propertyPath: m_LocalPosition.x

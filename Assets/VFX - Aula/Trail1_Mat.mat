@@ -90,6 +90,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _UVDistortion_82940e3346684f8786cbe98d220a66da_DistortionTex_954758802_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 60339f82da9badc4b92c38d9e927d952, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVDistortion_82940e3346684f8786cbe98d220a66da_MainTexture_1276494966_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 60339f82da9badc4b92c38d9e927d952, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -152,16 +160,16 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _BaseColor: {r: 97.413284, g: 97.189705, b: 99.537285, a: 1}
+    - _BaseColor: {r: 0.045814756, g: 0.045709603, b: 0.0468137, a: 1}
     - _BaseColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0.9159851, g: 0, b: 16, a: 1}
     - _FresnelColor: {r: 0.5762844, g: 0.3941568, b: 0.4578058, a: 0}
-    - _GradientColor0: {r: 1.210527, g: 0, b: 4, a: 0}
-    - _GradientColor1: {r: 3.64013, g: 0.5181785, b: 9.986712, a: 0}
+    - _GradientColor0: {r: 0.2266771, g: 0, b: 0.7490196, a: 0}
+    - _GradientColor1: {r: 0.27301565, g: 0.03886423, b: 0.7490196, a: 0}
     - _InnerOrbColor: {r: 0.9716981, g: 0.2429245, b: 0.4195936, a: 0}
-    - _InnerOrbSize: {r: 0.12, g: 0.24, b: 0, a: 0}
+    - _InnerOrbSize: {r: 0.13, g: 2.96, b: 0, a: 0}
     - _MultilayeredPanningSize: {r: 0.5, g: 2, b: 1, a: 0}
     - _PanningVelocity: {r: 0, g: 0, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
