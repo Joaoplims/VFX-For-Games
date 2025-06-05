@@ -49,7 +49,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _WaveNoise: 1
-    - _WaveSpeed: 0.1
+    - _WaveSpeed: 2
     m_Colors:
     - _GridColor: {r: 0, g: 10.124762, b: 11.984314, a: 0}
     - _TextColor: {r: 23.968626, g: 0, b: 0, a: 1}
